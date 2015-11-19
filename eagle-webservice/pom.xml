@@ -22,12 +22,12 @@
 	<parent>
 		<groupId>eagle</groupId>
 		<artifactId>eagle-parent</artifactId>
-		<version>0.1.0</version>
+		<version>0.3.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>eagle-webservice</artifactId>
 	<packaging>war</packaging>
-	<name>eagle-service</name>
+	<name>eagle-webservice</name>
 
 	<dependencies>
         <dependency>

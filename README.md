@@ -19,7 +19,9 @@ limitations under the License.
 
 # Apache Eagle
 
-> Eagle has been donated to [Apache Software Foundation](http://apache.org/) as an incubator project by [eBay Inc.](https://www.ebayinc.com/) since [Oct 26th, 2015](http://incubator.apache.org/projects/eagle.html). This codebase is retained for historical interest only, please visit Apache Incubator Repository for latest one https://github.com/apache/incubator-eagle 
+> Eagle has been donated to [Apache Software Foundation](http://apache.org/) as an incubator project by [eBay Inc.](https://www.ebayinc.com/) since [Oct 26th, 2015](http://incubator.apache.org/projects/eagle.html). This codebase is retained for historical interest only, please visit Apache Incubator Repository for latest one:
+
+> https://github.com/apache/incubator-eagle 
 
 Apache Eagle is an open source monitoring solution, initially contributed by [eBay Inc.](https://www.ebayinc.com/), to instantly identify access to sensitive data, recognize attacks, malicious activities in Hadoop and take actions in real time.
 

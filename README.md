@@ -19,24 +19,14 @@ limitations under the License.
 
 # Apache Eagle
 
->  Secure Hadoop Data in Real Time
+> Eagle has been donated to [Apache Software Foundation](http://apache.org/) as an incubator project by [eBay Inc.](https://www.ebayinc.com/) since [Oct 26th, 2015](http://incubator.apache.org/projects/eagle.html). This codebase is retained for historical interest only, please visit Apache Incubator Repository for latest one https://github.com/apache/incubator-eagle 
 
-Apache Eagle is an open source monitoring solution to instantly identify access to sensitive data, recognize attacks, malicious activities in Hadoop and take actions in real time.
+Apache Eagle is an open source monitoring solution, initially contributed by [eBay Inc.](https://www.ebayinc.com/), to instantly identify access to sensitive data, recognize attacks, malicious activities in Hadoop and take actions in real time.
 
 For more details, please visit [https://eagle.incubator.apache.org](https://eagle.incubator.apache.org)
 
 ## Documentation
 You can find the latest Eagle documentation on the [https://eagle.incubator.apache.org](https://eagle.incubator.apache.org/docs). This [README](README) file only contains basic setup instructions.
-
-## Getting Started
-Please refer to [https://eagle.incubator.apache.org/docs/deployment-in-sandbox.html](https://eagle.incubator.apache.org/docs/deployment-in-sandbox.html)
-
-## Building Eagle
-Eagle is built using [Apache Maven](https://maven.apache.org/). To build Eagle, run:
-
-    mvn -DskipTests clean package
-
-After successfully building, you will find eagle binary tarball under _eagle-assembly/target/_
 
 ## Get Help
 The fastest way to get response from eagle community is to send email to the mail list [dev@eagle.incubator.apache.org](mailto:dev@eagle.incubator.apache.org),

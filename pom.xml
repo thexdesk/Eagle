@@ -219,7 +219,7 @@
         <torque.version>4.0</torque.version>
 
         <!-- REST Service-->
-        <jersey.version>1.8</jersey.version>
+        <jersey.version>1.19.4</jersey.version>
         <jaxb-api.version>2.1</jaxb-api.version>
         <jaxb-impl.version>2.2.6</jaxb-impl.version>
         <stax-api.version>1.0.1</stax-api.version>

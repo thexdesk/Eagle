@@ -180,7 +180,7 @@
         <!-- Serialization -->
         <gson.version>2.2.2</gson.version>
         <guava.version>14.0.1</guava.version>
-        <fasterxml-jackson.version>2.2.3</fasterxml-jackson.version>
+        <fasterxml-jackson.version>2.6.7.3</fasterxml-jackson.version>
         <codehaus-jackson.version>1.9.13</codehaus-jackson.version>
         <jsoup.version>1.7.3</jsoup.version>
         <io.netty.version>3.6.7.Final</io.netty.version>

@@ -197,7 +197,7 @@
         <scopt.version>3.3.0</scopt.version>
 
         <!-- Streaming -->
-        <kafka.version>0.8.1.2.2.0.0-2041</kafka.version>
+        <kafka.version>0.10.2.2</kafka.version>
         <kafka-clients.version>0.8.2.0</kafka-clients.version>
         <jgrapht.version>0.9.0</jgrapht.version>
         <storm-kafka.version>0.9.3.2.2.0.0-2041</storm-kafka.version>

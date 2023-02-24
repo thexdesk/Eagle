@@ -171,7 +171,7 @@
         <commons-logging.version>1.1.1</commons-logging.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <commons-beanutils.version>1.8.0</commons-beanutils.version>
-        <commons-collections4.version>4.0</commons-collections4.version>
+        <commons-collections4.version>4.1</commons-collections4.version>
 
         <!-- Configuration -->
         <archaius.version>0.6.1</archaius.version>

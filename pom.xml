@@ -182,7 +182,7 @@
         <guava.version>14.0.1</guava.version>
         <fasterxml-jackson.version>2.2.3</fasterxml-jackson.version>
         <codehaus-jackson.version>1.9.13</codehaus-jackson.version>
-        <jsoup.version>1.7.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <io.netty.version>3.6.7.Final</io.netty.version>
         <org.json.version>20131018</org.json.version>
         <protobuf-java.version>2.5.0</protobuf-java.version>

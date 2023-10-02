@@ -160,7 +160,7 @@
         <hadoop.version>2.6.0.2.2.5.1-3</hadoop.version>
         <hbase.version>0.98.4.2.2.5.1-3-hadoop2</hbase.version>
         <hive.version>1.2.1</hive.version>
-        <spark.core.version>1.4.0</spark.core.version>
+        <spark.core.version>2.2.0</spark.core.version>
 
         <!-- Common Versions -->
         <commons-cli.version>1.2</commons-cli.version>

@@ -245,7 +245,7 @@
         <ejml.version>0.25</ejml.version>
 
         <!-- sprint security -->
-        <spring.framework.version>3.1.2.RELEASE</spring.framework.version>
+        <spring.framework.version>5.2.20.RELEASE</spring.framework.version>
     </properties>
 
     <dependencyManagement>

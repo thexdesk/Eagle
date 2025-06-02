@@ -167,7 +167,7 @@
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <commons-math3.version>3.5</commons-math3.version>
-        <commons-configuration.version>1.6</commons-configuration.version>
+        <commons-configuration.version>1.8</commons-configuration.version>
         <commons-logging.version>1.1.1</commons-logging.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <commons-beanutils.version>1.8.0</commons-beanutils.version>

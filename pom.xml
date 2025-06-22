@@ -201,7 +201,7 @@
         <kafka-clients.version>0.8.2.0</kafka-clients.version>
         <jgrapht.version>0.9.0</jgrapht.version>
         <storm-kafka.version>0.9.3.2.2.0.0-2041</storm-kafka.version>
-        <storm.version>0.9.3</storm.version>
+        <storm.version>0.10.0</storm.version>
         <curator.version>2.8.0</curator.version>
 
         <!-- Query -->

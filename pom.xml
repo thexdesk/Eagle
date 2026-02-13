@@ -216,7 +216,7 @@
         <javax.persistence.version>2.0.0</javax.persistence.version>
         <mysql-connector-java.version>5.1.34</mysql-connector-java.version>
         <ddlutils.version>1.0</ddlutils.version>
-        <torque.version>4.0</torque.version>
+        <torque.version>5.0</torque.version>
 
         <!-- REST Service-->
         <jersey.version>1.8</jersey.version>
